@@ -4,11 +4,11 @@ layout: default
 
 # Home
 
-## Hello, new student!
+## EP1000 Test site
 
-![](docs/images/week01/assignment-photo.jpg){: width="100%"}
+![](docs/images/week01/selfie.jpg){: width="60%"}
 
-## Welcome to your new EP1000 website
+## Welcome to my new EP1000 website (alternative)
 
 This is an example student blog for the EP1000 DFab module.
 
